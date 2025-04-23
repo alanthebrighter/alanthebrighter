@@ -2,12 +2,9 @@
 
 ## 📚 About Me
 
-👨 I have a deep passion for the field of **computing**, spanning across **Windows**, **Linux**, **scripting**, **system administration**, **cybersecurity**, and **computer assembly and maintenance**.  
-💻 I enjoy offering **technical support** and problem-solving solutions, always eager to explore new tools and technologies.  
-🤖 Lately, I've developed an interest in **artificial intelligence**, using it to assist and automate various tasks, experimenting with local models to enhance my workflow.  
-📊 I'm also currently studying to become a **Data Analyst**, with plans to transition into **Data Engineering** or **Data Science** in the future.  
-🎨 Alongside my technical interests, I have explored the world of **3D art**, gaining valuable experience and knowledge that enriches my creative and analytical skillset.
-
+👨 I'm passionate about **technology and computing**, especially in areas like **Linux**, **scripting**, **system administration**, **cybersecurity**, and **hardware assembly and maintenance**.   
+🐍 Lately, I’ve refocused on **Python** and **Bash scripting** to develop personal-use applications and automate everyday tasks.  
+🛡️ I'm also shifting my learning path toward **penetration testing**, especially focusing on **infrastructure security**, **exploitation**, **reverse engineering**, and **web pentesting**.  
 
 ### 🌐 Sociais
 
@@ -24,7 +21,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
