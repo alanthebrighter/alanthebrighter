@@ -8,10 +8,12 @@
 
 ### 🌐 Sociais
 
+[![HackeRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rayooszmr)
 [![ArtStation](https://img.shields.io/badge/ArtStation-4A90E2?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/alanthebrighter)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan1rodrigues/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan1rods/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kenpuu)
+
 
 
 ## 🚀 Technologies & Languages
