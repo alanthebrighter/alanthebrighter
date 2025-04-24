@@ -3,7 +3,7 @@
 ## 📚 About Me
 
 👨 I'm passionate about **technology and computing**, especially in areas like **Linux**, **scripting**, **system administration**, **cybersecurity**, and **hardware assembly and maintenance**.   
-🐍 Lately, I’ve refocused on **Python** and **Bash scripting** to develop personal-use applications and automate everyday tasks.  
+🐍 Lately, I’ve refocused on **Python** and **Shell scripting** to develop personal-use applications and automate everyday tasks.  
 🛡️ I'm also shifting my learning path toward **penetration testing**, especially focusing on **infrastructure security**, **exploitation**, **reverse engineering**, and **web pentesting**.  
 
 ### 🌐 Sociais
