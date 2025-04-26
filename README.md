@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=24&duration=2500&pause=1000&color=00FFFF&width=435&lines=Hello+Friend!+%F0%9F%98%B8;I+am+Alan+%22Brighter%22+Rodrigues!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## 📚 About Me
+## About Me
 
-👨 I'm passionate about **technology and computing**, especially in areas like **Linux**, **scripting**, **system administration**, **cybersecurity**, and **hardware assembly and maintenance**.   
-🐍 Lately, I’ve refocused on **Python** and **Shell scripting** to develop personal-use applications and automate everyday tasks.  
-🛡️ I'm learning **penetration testing**, especially focusing on **infrastructure security**, **exploitation**, **reverse engineering**, and **web pentesting**.  
+- I'm passionate about **technology and computing**, especially in areas like **Linux**, **scripting**, **system administration**, **cybersecurity**, and **hardware assembly and maintenance**.   
+- Lately, I’ve refocused on **Python** and **Shell scripting** to develop personal-use applications and automate everyday tasks.  
+- I'm learning **penetration testing**, especially focusing on **infrastructure security**, **exploitation**, **reverse engineering**, and **web pentesting**.  
 
-### 🌐 Sociais
+### Sociais
 
 [![HackeRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rayooszmr)
 [![ArtStation](https://img.shields.io/badge/ArtStation-4A90E2?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/alanthebrighter)
@@ -16,7 +16,7 @@
 
 
 
-## 🚀 Technologies & Languages
+## Technologies & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
