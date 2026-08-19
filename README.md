@@ -8,8 +8,7 @@ My academic path started in Cybersecurity, where I developed a solid technical f
 
 ## Programming Languages
 
-- **TypeScript** — Backend development
-- **JavaScript** — Web applications
+- **TypeScript**/**JavaScript** — Backend development & Web applications
 - **Python** — Automation and scripting
 - **C#** — Game development
 - **C** — Systems programming
